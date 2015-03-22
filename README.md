@@ -1,2 +1,4 @@
 # TestGithub1
-GitHub learning
+================
+this repository is creatred to learn github functionality.
+
